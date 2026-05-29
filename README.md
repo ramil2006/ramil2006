@@ -63,7 +63,7 @@ I specialize in **Clean Architecture**, **High-performance APIs**, and **Databas
 | Project | Stack | Status | Uptime |
 |---|---|---|---|
 | **Enterprise ERP Core** | ASP.NET Core Web API · EF Core · MS SQL · CQRS (MediatR) · Clean Architecture | 🟡 In Development | `87%` |
-| **Audience Engagement Portal** | ASP.NET MVC · EF Core · MS SQL · JWT Auth · Repository Pattern | 🟢 Operational | `99.4%` |
+| **Audience Engagement Portal** | ASP.NET MVC · EF Core · MS SQL · JWT Auth · Repository Pattern | 🟡 In Development | `80%` |
 | **AI-Driven LMS Backend** | .NET Core · REST API · EF Core · MS SQL · Clean Architecture · Docker | 🔵 Blueprinting | `—` |
 
 ---
